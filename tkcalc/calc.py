@@ -3,7 +3,7 @@ from tkmacosx import Button
 
 w = Tk()
 w.title('Calculator')
-w.configure(bg='#ff6b6b')
+w.configure(bg='#2cafdb')
 
 fr = LabelFrame(w, pady=20)
 fr.pack(padx=5, pady=5)
